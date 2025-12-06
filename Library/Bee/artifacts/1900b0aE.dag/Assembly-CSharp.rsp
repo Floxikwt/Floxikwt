@@ -352,6 +352,7 @@
 "Assets/AQUAS-Lite/Scripts/AQUAS_Lite_Camera.cs"
 "Assets/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs"
 "Assets/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs"
+"Assets/HelloWorld.cs"
 -langversion:9.0
 
 /deterministic
